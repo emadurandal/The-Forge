@@ -73,6 +73,10 @@ The Forge Interactive Inc. is a [Khronos member](https://www.khronos.org/members
 
 # News
 
+## Release 1.64
+
+Continued on [https://codeberg.org/The-Forge](https://codeberg.org/The-Forge)
+
 
 ## Release 1.63 - March 20th, 2025 - Advanced RTX Global Illumination Middleware | Quest Run-time switches to OpenXR | Triangle Visibility Buffer with Programmable MSAA | Ephemeris running on low end mobile devices | Particle System UT now runs on Adreno Devices with lower storage buffer limits
 
